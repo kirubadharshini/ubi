@@ -8,7 +8,7 @@ pipeline {
         }
         stage("step2") {
             steps {
-                echo "bye!"
+                echo "bye 1 min 2 min!"
             }
         }
     }
